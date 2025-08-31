@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218248871071",
+    "project_id": "saathi-83930",
+    "storage_bucket": "saathi-83930.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218248871071:android:c19f6e540d2781060736aa",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXGzrN7aXlcpqNPWfh09efD9yHDs6bFWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
