@@ -41,9 +41,13 @@ flutter run
 
 
 ⚙️ Permissions Required
+
 The app requires the following permissions:
+
 📍 Location (for NGO recommendations & SOS)
+
 📱 SMS & Call (for SOS alert & Auto FIR)
+
 🔔 Notifications (for reminders)
 
 Add in AndroidManifest.xml:
@@ -53,9 +57,13 @@ Add in AndroidManifest.xml:
 
 
 📌 Future Enhancements
+
 1- AI-based chatbot for mental health support 🤖
+
 2- Multilingual support for rural areas 🌍
+
 3- Integration with government schemes & helplines 📞
+
 4- Advanced analytics for NGO impact 📊
 
 
