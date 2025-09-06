@@ -1,16 +1,21 @@
-# flutterproject
+Saathi – Support & Empowerment Platform
 
-A new Flutter project.
+Overview
 
-## Getting Started
+Saathi is a community-driven platform built by students to support women and vulnerable communities.
+It provides quick access to emergency help, counseling, legal aid, and safe connections.
 
-This project is a starting point for a Flutter application.
+Features
+🚨 One-tap access to emergency contacts
+💬 Anonymous community support
+📚 Resources for counseling & legal aid
+🌐 Built with accessibility in mind
+user can check for the schemes they are eligible for
 
-A few resources to get you started if this is your first Flutter project:
+🛠 Tech Stack
+Frontend: React + Vite
+Language: TypeScript
+Styling: Tailwind CSS
+UI Components: Custom + open-source libraries (minimal dependencies)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👥 Team Saathi was built with ❤️ by a group of 4 Indian students, with the vision of making digital spaces safer and more supportive.
